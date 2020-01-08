@@ -1,5 +1,3 @@
 # DigitRecognizer
-Recognizing digits with neural networks
-
-## Used for a kaggle competition
+Recognizing digits with neural networks, used for a kaggle competition
 
